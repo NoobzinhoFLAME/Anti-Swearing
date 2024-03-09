@@ -1,0 +1,5 @@
+name: Anti-Swearing
+version: 1.0.0
+author: NoobzinhoFLAME
+main: com.noobzinhoflame.antiswearing.Main
+load: STARTUP
